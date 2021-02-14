@@ -1,0 +1,13 @@
+{
+    "name": "vw/leads",
+    "type": "library",
+    "licence": "proprietary",
+    "autoload": {
+        "classmap": [
+        	"lib/"
+        ]
+    },
+    "require": {
+        "swiftmailer/swiftmailer": "5.4.8"
+    }
+}
