@@ -2,6 +2,10 @@
     "name": "vw/leads",
     "type": "library",
     "licence": "proprietary",
+    "authors": [{
+		"name": "Daniel Gomes",
+		"role": "Developer"
+ 	}],
     "autoload": {
         "classmap": [
         	"lib/"
@@ -9,5 +13,7 @@
     },
     "require": {
         "swiftmailer/swiftmailer": "5.4.8"
-    }
-}
+    },
+	"license": [
+	   "GPL-3.0-or-later"
+	]}
